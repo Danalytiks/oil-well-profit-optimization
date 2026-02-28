@@ -53,6 +53,8 @@ Three regional datasets with the following fields:
 - Filter regions with loss risk below 2.5%  
 - Select the region with the highest mean profit
 
+---
+
 ## 📊 Results
 
 | Region | Mean Profit (USD) | Loss Risk |
