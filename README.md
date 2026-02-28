@@ -51,7 +51,19 @@ Three regional datasets with the following fields:
 
 ### 4️⃣ Region Recommendation
 - Filter regions with loss risk below 2.5%  
-- Select the region with the highest mean profit  
+- Select the region with the highest mean profit
+
+## 📊 Results
+
+| Region | Mean Profit (USD) | Loss Risk |
+|--------|------------------|----------|
+| Region 0 | ~$39.2M | ~5.1% |
+| Region 1 | ~$44.8M | ~1.5% |
+| Region 2 | ~$37.9M | ~7.6% |
+
+Only **Region 1** meets the risk threshold (<2.5%) while also providing the highest expected profit.  
+
+**Final Recommendation:** Develop oil wells in Region 1.
 
 ---
 
